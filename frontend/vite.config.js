@@ -6,7 +6,7 @@ export default defineConfig({
         port: 5173
     },
     build: { 
-        outDir: '../dist',
+        outDir: '../custom_components/recycleapp_custom_card/www',
         emptyOutDir: true,
         lib: { 
             entry: "src/main.js", 

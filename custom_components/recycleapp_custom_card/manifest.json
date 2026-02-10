@@ -6,5 +6,11 @@
   "documentation": "https://github.com/maximebrison/recycle-ha",
   "integration_type": "hub",
   "iot_class": "cloud_polling",
-  "requirements": []
+  "requirements": [],
+  "resources": [
+    {
+      "file": "www/recycle-ha/js",
+      "type": "module"
+    }
+  ]
 }
