@@ -9,7 +9,7 @@
   "requirements": [],
   "resources": [
     {
-      "file": "www/recycle-ha/js",
+      "file": "www/recycle-ha.js",
       "type": "module"
     }
   ]
