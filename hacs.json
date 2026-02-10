@@ -1,4 +1,6 @@
 {
     "name": "RecycleApp Card",
-    "content_in_root": false
+    "content_in_root": false,
+    "filename": "dist/recycle-ha.js",
+    "render_readme": true
 }
